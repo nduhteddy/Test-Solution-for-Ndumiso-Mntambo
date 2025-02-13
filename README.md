@@ -1,5 +1,5 @@
 ## Overview
-This repository contains a collection of C# programs developed as a test solution for Ndumiso Mntambo. Each program serves a specific purpose.
+This repository contains a collection of C# programs developed as a test solution. Each program serves a specific purpose.
 
 ## Programs
 
